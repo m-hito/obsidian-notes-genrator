@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Note Generator",
+  "description": "Transforms raw video transcripts and messy lecture notes into structured, Obsidian-ready Markdown notes with code blocks, frameworks, and quick export options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
